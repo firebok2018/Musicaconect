@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "772441642618",
+    "firebase_url": "https://musica-rplay.firebaseio.com",
+    "project_id": "musica-rplay",
+    "storage_bucket": "musica-rplay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772441642618:android:a1695fddd0d3db1e",
+        "android_client_info": {
+          "package_name": "inc.firebok.com.music"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772441642618-b1eqcd88rh8hcscmota64l9jae8r6j5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvIwUgMvtqV8-fks742i1AImP_v0RmBAg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
